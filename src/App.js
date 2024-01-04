@@ -17,7 +17,7 @@ export const average = (arr) =>
 // Important to include outsidfe the component scope because it does not
 //depend on anything inside it. If it was declared inside the component
 //itwould be recreated everytime the component re-renders - ineficient
-export const KEY = "4d3bb68a";
+export const KEY = process.env.REACT_APP_API_KEY;
 export default function App() {
   const [query, setQuery] = useState("");
   const [movies, setMovies] = useState([]);
