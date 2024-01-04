@@ -6,6 +6,11 @@ I've also included several comments throughout the files.
 
 Hope you enjoy 😎
 
+# NOTE: 
+This is not deployed. Therefore, in order to try it yourself, create an API KEY in: https://www.omdbapi.com/
+
+Just use your key in the App.js file.
+
 # Fetching Data:
 
 There are some big problems when we're fetching data on our application:
