@@ -1,3 +1,11 @@
+## ReadMe
+
+Here I will include some important information about the code or solution used - it helps me to remember and better understand.
+
+I've also included several comments throughout the files.
+
+Hope you enjoy 😎
+
 # Fetching Data:
 
 There are some big problems when we're fetching data on our application:
